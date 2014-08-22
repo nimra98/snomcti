@@ -44,7 +44,8 @@ public class GUI extends JFrame {
 	private JButton btnModus;
 	private JTextField txtTastaturmodus;
 	private Boolean modus = false;
-	private String nummernfeld = "Rufnummer einfügen";
+	private String nummernfeld = "Rufnummer einfÃ¼gen";
+
 
 	/**
 	 * Launch the application.
